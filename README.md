@@ -14,4 +14,7 @@ Work in Progress
 Work in Progress
 
 # Data Preparation
-See 3.1 dataprep_240228_commented.ipynb
+1. Datasets: Wikimedia v20230407
+   https://opus.nlpl.eu/wikimedia/fr&en/v20230407/wikimedia
+3. Code:
+   See 3.1 dataprep_240228_commented.ipynb
